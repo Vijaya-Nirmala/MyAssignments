@@ -10,7 +10,7 @@ public class FibonacciSeries {
 		int sum=0;
 		System.out.println(fn);
 		System.out.println(sn);
-		for(r=1;r<=6;r++)
+		for(r=1;r<=9;r++)
 		{
 		sum = fn+ sn;
 		System.out.println(sum);
